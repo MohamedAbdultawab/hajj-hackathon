@@ -1,0 +1,26 @@
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.csproj.CoreCompileInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.AssemblyInfoInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.AssemblyInfo.cs
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/bin/Debug/netcoreapp2.1/Entity.deps.json
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/bin/Debug/netcoreapp2.1/Entity.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/bin/Debug/netcoreapp2.1/Entity.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/HajjICM.Entity/obj/Debug/netcoreapp2.1/Entity.csprojAssemblyReference.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/bin/Debug/netcoreapp2.1/Entity.deps.json
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/bin/Debug/netcoreapp2.1/Entity.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/bin/Debug/netcoreapp2.1/Entity.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/obj/Debug/netcoreapp2.1/Entity.csproj.CoreCompileInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/obj/Debug/netcoreapp2.1/Entity.AssemblyInfoInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/obj/Debug/netcoreapp2.1/Entity.AssemblyInfo.cs
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/obj/Debug/netcoreapp2.1/Entity.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Entity/obj/Debug/netcoreapp2.1/Entity.pdb
+Y:\Developments\Projects\HajjICM\Entity\bin\Debug\netcoreapp2.1\Entity.deps.json
+Y:\Developments\Projects\HajjICM\Entity\bin\Debug\netcoreapp2.1\Entity.dll
+Y:\Developments\Projects\HajjICM\Entity\bin\Debug\netcoreapp2.1\Entity.pdb
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.csprojAssemblyReference.cache
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.csproj.CoreCompileInputs.cache
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfoInputs.cache
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfo.cs
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.dll
+Y:\Developments\Projects\HajjICM\Entity\obj\Debug\netcoreapp2.1\Entity.pdb

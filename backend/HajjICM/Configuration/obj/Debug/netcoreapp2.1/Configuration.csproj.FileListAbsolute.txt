@@ -1,0 +1,23 @@
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/bin/Debug/netcoreapp2.1/Configuration.deps.json
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/bin/Debug/netcoreapp2.1/Configuration.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/bin/Debug/netcoreapp2.1/Configuration.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/bin/Debug/netcoreapp2.1/Entity.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/bin/Debug/netcoreapp2.1/Entity.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.csproj.CoreCompileInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.AssemblyInfoInputs.cache
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.AssemblyInfo.cs
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.dll
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.pdb
+/Users/Moayed/Library/Mobile Documents/com~apple~CloudDocs/Developments/Projects/HajjICM/Configuration/obj/Debug/netcoreapp2.1/Configuration.csprojResolveAssemblyReference.cache
+Y:\Developments\Projects\HajjICM\Configuration\bin\Debug\netcoreapp2.1\Configuration.deps.json
+Y:\Developments\Projects\HajjICM\Configuration\bin\Debug\netcoreapp2.1\Configuration.dll
+Y:\Developments\Projects\HajjICM\Configuration\bin\Debug\netcoreapp2.1\Configuration.pdb
+Y:\Developments\Projects\HajjICM\Configuration\bin\Debug\netcoreapp2.1\Entity.dll
+Y:\Developments\Projects\HajjICM\Configuration\bin\Debug\netcoreapp2.1\Entity.pdb
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.csprojAssemblyReference.cache
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.csproj.CoreCompileInputs.cache
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.AssemblyInfoInputs.cache
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.AssemblyInfo.cs
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.csproj.CopyComplete
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.dll
+Y:\Developments\Projects\HajjICM\Configuration\obj\Debug\netcoreapp2.1\Configuration.pdb
