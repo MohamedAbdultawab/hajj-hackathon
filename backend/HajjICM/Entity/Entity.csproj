@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="PersonTitle.cs" />
+    <Compile Remove="PersonReligion.cs" />
+    <Compile Remove="PersonPhoto.cs" />
+    <Compile Remove="Route.cs" />
+    <Compile Remove="Nationality.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.1.2" />
+  </ItemGroup>
+</Project>
