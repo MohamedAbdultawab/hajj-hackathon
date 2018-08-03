@@ -1,0 +1,5 @@
+ --- applications:
+ - name: python_project
+ - random-route: true
+ - memory: 256M
+ - buildpack: https://github.com/cloudfoundry/python-buildpack.git
